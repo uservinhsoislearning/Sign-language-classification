@@ -1,7 +1,7 @@
 # Sign language classification
 This repository attempts to apply the Xception model to classify sign language using the MNIST dataset. 
 ## 1. Sign language alphabet
-Here is the sign language alphabet. Note: this is NOT the full version, as some characters are missing here.
+Here is the sign language alphabet. Note: this is NOT the full version, as J and Z are missing here (because of gesture motions).
 ![amer_sign2](https://github.com/user-attachments/assets/0c4a6838-18a6-4934-9430-7b0fb3120545)
 ## 2. Xception model
 Here is the architecture of the Xception model.
