@@ -6,6 +6,7 @@ Here is the sign language alphabet. Note: this is NOT the full version, as J and
 ![amer_sign2](https://github.com/user-attachments/assets/0c4a6838-18a6-4934-9430-7b0fb3120545)
 ## 2. Xception model
 Here is the architecture of the Xception model.
+
 ![c53a8928-1e70-4601-af2a-a4182fefd0d9](https://github.com/user-attachments/assets/d34c5986-5054-4626-af19-cb5e36c22dac)
 ## 3. How to run
 First, you need to run this command:
